@@ -16,10 +16,10 @@ Multipaz Project Proposal v0.1
   - Akash Shah, Maintainer (Google LLC) — [dyiop@google.com](mailto:dyiop@google.com), GitHub: [@dyiop](https://github.com/dyiop)
   - Gareth Oliver, Maintainer (Google LLC) — [gco@google.com](mailto:gco@google.com), GitHub: [@GarethCOliver](https://github.com/GarethCOliver)
   - Ever Morales, Maintainer (Open Mobile Hub) — [ever.morales@koombea.com](mailto:ever.morales@koombea.com), GitHub: [@TheBlackBit](https://github.com/TheBlackBit)
-  - Hanlu Feng, Maintainer (Open Mobile Hub) — [hanlu@openmobilehub.com](mailto:hanlu@openmobilehub.com), GitHub: [@hanluOMH](https://github.com/hanluOMH)
-  - Saurabh Goyal, Maintainer (Open Mobile Hub) — [saurabh@openmobilehub.org](mailto:saurabh@openmobilehub.org), GitHub: [@saurabhgoyal7872](https://github.com/saurabhgoyal7872)
-  - Diego Zuluaga, Maintainer (Open Mobile Hub) — [diego@openmobilehub.org](mailto:diego@openmobilehub.org), GitHub: [@dzuluaga](https://github.com/dzuluaga)
-  - Vishnu Sanal, Maintainer (Open Mobile Hub) — [vishnusanalt@gmail.com](mailto:vishnusanalt@gmail.com), GitHub: [@VishnuSanal](https://github.com/VishnuSanal)
+  - Hanlu Feng, Maintainer (Open Mobile Hub) — [hanlu.feng25@gmail.com](mailto:hanlu.feng25@gmail.com), GitHub: [@hanluOMH](https://github.com/hanluOMH)
+  - Vishnu Sanal T, Maintainer (Open Mobile Hub) — [t.v.s10123@gmail.com](mailto:t.v.s10123@gmail.com), GitHub: [@VishnuSanal](https://github.com/VishnuSanal)
+  - Saurabh Goyal, Maintainer (Open Mobile Hub) — [saurabh@openapplab.org](mailto:saurabh@openapplab.org), GitHub: [@saurabhgoyal7872](https://github.com/saurabhgoyal7872)
+  - Diego Zuluaga, Maintainer (Open Mobile Hub) — [diegofossdev@gmail.com](mailto:diegofossdev@gmail.com), GitHub: [@dzuluaga](https://github.com/dzuluaga)
   
 # Abstract
 
@@ -82,10 +82,10 @@ The initial maintainers for the LFDT project are:
 | Akash Shah | [@dyiop](https://github.com/dyiop)       | [dyiop@google.com](mailto:dyiop@google.com)                     | Google LLC | Maintainer |
 | Gareth Oliver | [@GarethCOliver](https://github.com/GarethCOliver) | [gco@google.com](mailto:gco@google.com)                         | Google LLC | Maintainer |
 | Ever Morales | [@TheBlackBit](https://github.com/TheBlackBit) | [ever.morales@koombea.com](mailto:ever.morales@koombea.com)     | Open Mobile Hub | Maintainer |
-| Hanlu Feng | [@hanluOMH](https://github.com/hanluOMH) | [hanlu@openmobilehub.com](mailto:hanlu@openmobilehub.com)       | Open Mobile Hub | Maintainer |
-| Saurabh Goyal | [@saurabhgoyal7872](https://github.com/saurabhgoyal7872) | [saurabh@openmobilehub.org](mailto:saurabh@openmobilehub.org)   | Open Mobile Hub | Maintainer |
-| Diego Zuluaga | [@dzuluaga](https://github.com/dzuluaga) | [diego@openmobilehub.org](mailto:diego@openmobilehub.org)       | Open Mobile Hub | Maintainer |
-| Vishnu Sanal | [@VishnuSanal](https://github.com/VishnuSanal) | [vishnusanalt@gmail.com](mailto:vishnusanalt@gmail.com)       | Open Mobile Hub | Maintainer |
+| Hanlu Feng | [@hanluOMH](https://github.com/hanluOMH) | [hanlu.feng25@gmail.com](mailto:hanlu.feng25@gmail.com)       | Open Mobile Hub | Maintainer |
+| Vishnu Sanal T | [@VishnuSanal](https://github.com/VishnuSanal) | [t.v.s10123@gmail.com](mailto:t.v.s10123@gmail.com)       | Open Mobile Hub | Maintainer |
+| Saurabh Goyal | [@saurabhgoyal7872](https://github.com/saurabhgoyal7872) | [saurabh@openapplab.org](mailto:saurabh@openapplab.org)   | Open Mobile Hub | Maintainer |
+| Diego Zuluaga | [@dzuluaga](https://github.com/dzuluaga) | [diegofossdev@gmail.com](mailto:diegofossdev@gmail.com)       | Open Mobile Hub | Maintainer |
 
 The maintainers request direct transfer of the five existing GitHub repositories from `openwallet-foundation` to a new `multipaz` organization, preserving commit history, issues, pull requests, and releases. The repositories already enforce `Signed-off-by` (DCO) on commits and follow Linux Foundation governance practices from their tenure in the OpenWallet Foundation.
 
